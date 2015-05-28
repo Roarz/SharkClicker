@@ -1,5 +1,4 @@
-# SharkClicker
-Console test application for my Shark Clicker game.
+# Console test application for my Shark Clicker game
 
 Contains a MySQL script that must be run first to construct the game's
 database. The Visual Studio console application contains stored
